@@ -20,7 +20,7 @@ st.set_page_config(
 # MODEL
 # =========================================================
 
-MODEL_PATH = r"C:\weapon_clean\runs\weapon_clean\weights\best.pt"
+MODEL_PATH = "models/best.pt"
 
 
 @st.cache_resource
